@@ -1,1 +1,11 @@
-{"version":2,"name":"propertypool","builds":[{"src":"package.json","use":"@now/next"}]}
+{
+  "version": 2,
+  "name": "propertypool",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ],
+  "regions": ["bru"]
+}
