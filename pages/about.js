@@ -20,7 +20,7 @@ class AboutPage extends Component {
           <p>
             You can reload to see how the page change.
           </p>
-          <Link href="/">
+          <Link href="/" title="test">
             <a>Go to Home</a>
           </Link>
         </section>
